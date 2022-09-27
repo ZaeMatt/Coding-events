@@ -19,7 +19,7 @@ public class EventData {
 
 
     //get a single event
-    public static Event getById(int id){
+    public static Event getById(int id) {
         return events.get(id);
     }
 
